@@ -14,7 +14,8 @@ https://accept.paymob.com/portal2/en/register
 https://docs.paymob.com/
 
 
-## controllers 
+## controllers
+
 copy paymob controller and change data as required
 paymob controller
 checkout controller
