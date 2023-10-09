@@ -20,6 +20,9 @@ paymob controller
 checkout controller
 
 
+## env.file
+
+copy env.example and add your paymob credentials
 ## Routes
 
 add Routes same like web.php
